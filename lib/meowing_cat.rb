@@ -3,8 +3,5 @@ class Cat
 
 attr_accessor :cat, :name
 
-def name
-  @name
-end
 
 end
